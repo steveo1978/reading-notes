@@ -4,7 +4,7 @@
 
 **Growth mindset** 
  
-***is the world of if I don't know , I can learn.
+ ***is the world of if I don't know , I can learn.***
 
 **Growth mindset** 
 
