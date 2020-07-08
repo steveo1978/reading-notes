@@ -16,7 +16,7 @@
 ### Below is a link to github to learn more about markdown and the link to my tools for my terminal.
   [github Markdown references](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
   
-### [Link to tools-terminal](tools-terminal.md)
+  [Link to tools-terminal](tools-terminal.md)
 
 
 
