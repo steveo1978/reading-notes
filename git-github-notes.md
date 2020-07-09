@@ -22,16 +22,13 @@
 ## >Check Settings
 *To check settings, use the git config --list command.*
 
-Tracking and Staging a New File
+## <Tracking and Staging a New File
+*Single File*
 
-Single File
-
-Track one file only by using the following format:
-
-git add filename
-All Files
-
-Track all files in a repository by using the following command:
+## <Track one file only by using the following format:
+*git add filename*
+*All Files*
+*Track all files in a repository by using the following command:*
 *$ git add '*'*
 *After using these commands, files are tracked and staged for committing.*
 *After adding a new file called EXAMPLE, you would see information regarding changes to be committed when using the git status command:*
@@ -42,19 +39,20 @@ Track all files in a repository by using the following command:
 *new file: EXAMPLE*
 *This information tells us that there are changes to be committed and that the file has been staged.*
 
-## Committing a File
+## <Committing a File
 *After staging one or multiple files, you should commit the changes and record what you did within the commit message:*
 *$ git commit -m “made change x,y,z”*
 *This step has committed changes for the file or files (you can have one commit message for multiple files, if applicable) to the HEAD.*
 
-## Committing All Changes
+## <Committing All Changes
 *$ git commit -a*
 *This command commits a snapshot of all modifications to tracked files in the working directory.*
 
-## Pushing Changes
-*Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.*
+## <Pushing Changes
+*Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general *overview of pushing changes to remotes.*
 
-## Example:
+## <Example:
 *$ git push origin master*
 *This command pushes changes from the local “master” branch to the remote repository named “origin”.*
-*For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository. However, these names can be changed by the user.
+*For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository.* 
+*However, these names can be changed by the user.*
