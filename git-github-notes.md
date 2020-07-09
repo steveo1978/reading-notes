@@ -49,7 +49,7 @@
 *This command commits a snapshot of all modifications to tracked files in the working directory.*
 
 ## <Pushing Changes
-*Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general *overview of pushing changes to remotes.*
+*Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general* *overview of pushing changes to remotes.*
 
 ## <Example:
 *$ git push origin master*
