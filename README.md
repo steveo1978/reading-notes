@@ -7,6 +7,8 @@
   [Link to tools-terminal](tools-terminal.md)
   [Link to github git notes](git-github-notes.md)
   [link to html notes](html-notes.md)
+  [link to CSS notes](css-notes.md)
+
 
 
 
