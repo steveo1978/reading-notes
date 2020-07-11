@@ -6,3 +6,5 @@
 - Opacity - ???
 - Hex code - hexidecimal code - #000000 or #000
 - Layout - remember wireframe - 
+- Rule
+- selector
