@@ -1,6 +1,6 @@
 # Steve's reading notes
 
-## Hello 
+## Welcome and Hello My name is Steve R. Marical and I am a coding and sofware development student at Code Fellows. Please feel free to browse my page and don't forget to click the links !
 
 ### table of contents
 
