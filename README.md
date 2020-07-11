@@ -1,5 +1,7 @@
 # Steve's reading notes
 
+## Hello 
+
 ### table of contents
 
   -[growth mindset](growthmindset.md)
