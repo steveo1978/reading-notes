@@ -1,14 +1,14 @@
 
-< # **These are my notes for HTML** />
+# **These are my notes for HTML** 
 
 
- - <## HTML-/><**hyper text markup language**/>
+ - ## HTML-**hyper text markup language**
 
-  - <### *HTML pages are text documents*/>
+  - ### *HTML pages are text documents*
 
-  - <*html uses tags*/>
+  - *html uses tags*
 
-  - <*Tags are often referred to as elements*>
+  - *Tags are often referred to as elements*
 
   - *Tags come in pairs. Opening tag denotes the start of a piece of content; the closing tag denotes the end.*
 
