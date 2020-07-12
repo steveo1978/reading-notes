@@ -21,3 +21,15 @@
   - *An unordered list element is ul in html*
 
   - *To make html5 elements work in Internet Explorer 8 '(and older versions of Ie)', extra JavaScript is needed, which is available free from google.*
+
+  ## vocab -
+  **_Wireframe_**
+  **_Personas_**
+  **_Meta_**
+  **_Content_**
+  **_Element_**
+  **_Attribute_**
+  **_Structure vs. Presentation - html vs. css_**
+  **_Markup_**
+  **_Semantics_**
+  **_html_**
