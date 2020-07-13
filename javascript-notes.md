@@ -1,4 +1,4 @@
-# Read 06 A
+# Read 06 A and B
 
 ## JavaScript Notes
 
@@ -21,3 +21,5 @@
 + **It is better to put scripts in their own files but you can still place the html in between two opening and closing script tags.**
 
 + **When the browser comes across a <'script'> element, it stops to load the script and then checks to see if it needs to do anything further.**
+
+# Read 06 B
