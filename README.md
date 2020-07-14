@@ -17,3 +17,5 @@
   -[link to CSS notes](css-notes.md)
 
   -[link to JavaScript notes](javascript-notes.md)
+
+  -[link to function notes](function-notes.md)
