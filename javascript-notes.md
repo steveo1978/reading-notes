@@ -1,4 +1,4 @@
-# Read 06 A and B
+# Read 06 A 
 
 ## JavaScript Notes
 
@@ -22,4 +22,3 @@
 
 + **When the browser comes across a <'script'> element, it stops to load the script and then checks to see if it needs to do anything further.**
 
-# Read 06 B
