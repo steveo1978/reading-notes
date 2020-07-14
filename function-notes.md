@@ -18,6 +18,6 @@
     
     - *Arguments* - **when you call a function that has parameters, you specify the values it should use in the parentheses that follow its nmae.**
     
-    - *Return value* - **
+    - *Return value* - **final**
 
-+ **Refactoring** - 
++ **Refactoring** - **"cleaning" or change to suit another purpose, better practice, more efficient.**
