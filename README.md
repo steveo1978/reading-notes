@@ -1,4 +1,4 @@
-# **Steve's Reading Notes for Class 102.**
+# **Steve R. Marical's Reading Notes for the Software Development /                Coding classes at Code Fellows.**
 
 
 
@@ -6,10 +6,10 @@
 
 
 
+## **_Table of Contents_**
 
-
-## **Table of Contents**
 - [Code 102](102/README.md)
+
 - [Code 201](201/README.md)
 
   
