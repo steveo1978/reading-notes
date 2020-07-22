@@ -5,3 +5,5 @@
 ### **_Table of Contents_**
 
 1 [*Class 1*](class1.md)
+
+1 [*Class-02*](class-02.md)
