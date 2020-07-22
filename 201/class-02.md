@@ -40,10 +40,27 @@ CSS also uses other elements that are broken down in the declaration, they are t
     if (hourNow > 18) {
        greeting = 'Good evening';
   } Else if (hourNow > 12) {
-    greeting = 'Good afternoon';
+       greeting = 'Good afternoon';
   } Else if (hourNow) > 0) {
-    greeting = 'Good morning';
+       greeting = 'Good morning';
   } else {
-    greeting = 'Welcome';
+       greeting = 'Welcome';
   }
   document.write(greeting);
+
+* Statements surrounded by curly brackets are known as **Code blocks**.
+* to write a comment that stretches over more than one line, you use a **Multi-line** comment, starting with **/*** and ***/** .
+* **Variables** are used to store pieces of info.
+* **Arrays** are special variables that store more than one piece of related info.
+* **JavaScript** distinguishes between numbers ('0-9'), strings ('text'), and boolean values ('true or false').
+
+  ## Decisions & loops
+
+  == - equal to
+  != - is not equal to
+  === - strict equal to
+  !== - strict not equal to
+  > - greater than
+  >= - greater than or equal to
+  < - Less than
+  <= - Less than or equal to.
