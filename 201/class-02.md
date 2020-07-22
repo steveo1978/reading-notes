@@ -14,10 +14,10 @@
    * (<h5>)
    * (<h6>)
 
-- The html for a paragraph is: '<p>'.
-- Html for bold and italic : '<b>' , '<i>'
-- Html for superscript & Subscript : '<sup>' , '<sub>'
-- Html for Line breaks & Horizontal rules '<br />' , '<hr />'
+- The html for a paragraph is: (<p>).
+- Html for bold and italic : (<b>) , (<i>)
+- Html for superscript & Subscript : (<sup>) , (<sub>)
+- Html for Line breaks & Horizontal rules (<br />) , (<hr />)
 
 ## CSS
 
