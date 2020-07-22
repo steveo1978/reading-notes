@@ -7,17 +7,17 @@
     * Semantic markup - **Provides extra info; where the emphasis is placed in a sentance. Such as a quote, ('and who said it'), meanings of acronyms, and so on.**
 
 - There are 6 levels of headings 
-   * ('<h1>')
-   * ('<h2>')
-   * ('<h3>')
-   * ('<h4>')
-   * ('<h5>')
-   * ('<h6>')
+   * (<h1>/)
+   * (<h2>/)
+   * (<h3>/)
+   * (<h4>/)
+   * (<h5>/)
+   * (<h6>/)
 
-- The html for a paragraph is: ('<p>').
-- Html for bold and italic : ('<b>') , ('<i>')
-- Html for superscript & Subscript : ('<sup>') , ('<sub>')
-- Html for Line breaks & Horizontal rules ('<br />) , ('<hr />')
+- The html for a paragraph is: (<p>/).
+- Html for bold and italic : ('<b>') , (<i>/)
+- Html for superscript & Subscript : (<sup>/) , (<sub>/)
+- Html for Line breaks & Horizontal rules (<br />/) , (<hr />/)
 
 ## CSS
 
