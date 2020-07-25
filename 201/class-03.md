@@ -5,7 +5,7 @@
 * There are 3 different types of HTML lists
   * **_Ordered lists_**- lists where each item in the list is numbered.
   * **_Unordered Lists_**- Lists that begin with a bullet point.
-  * **_Definition Lists_**- Are made upof a set of terms along with the definition for each of those terms.
+  * **_Definition Lists_**- Are made up of a set of terms along with the definition for each of those terms.
 
 * Ordered lists use the < ol >, and < li > Tags.
 * Unordered Lists use the < ul >, and < li > Tags.
