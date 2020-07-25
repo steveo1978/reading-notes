@@ -7,3 +7,5 @@
 1 [*Class 1*](class1.md)
 
 1 [*Class-02*](class-02.md)
+
+1 [*Class-03*](class-03.md)
