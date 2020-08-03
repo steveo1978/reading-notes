@@ -19,3 +19,5 @@
    -[link to function notes](function-notes.md)
 
    -[link to loops reading notes](loops-notes.md)
+
+   -[link Back to main table of contents](README.md)

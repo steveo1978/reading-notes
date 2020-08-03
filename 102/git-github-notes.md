@@ -56,3 +56,6 @@
 *This command pushes changes from the local “master” branch to the remote repository named “origin”.*
 *For cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local repository.* 
 *However, these names can be changed by the user.*
+
+
+[Link back to Table of Contents](102/README.md)
