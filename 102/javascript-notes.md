@@ -23,5 +23,5 @@
 + **When the browser comes across a <'script'> element, it stops to load the script and then checks to see if it needs to do anything further.**
 
 
-[Link back to Table of Contents](102/README.md)
+[Link back to Table of Contents](README.md)
 

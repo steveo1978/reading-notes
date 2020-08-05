@@ -11,4 +11,4 @@
 
 ## ***Markdown is a way to style text on the web. I control how the text appears, weather it be bold or italic or with images or lists, those are just a few things that can be added to my web page. Markdown also involves using non-alphabetic characters such as the # and the star key.***
 
-[Link back to Table of Contents](102/README.md)
+[Link back to Table of Contents](README.md)

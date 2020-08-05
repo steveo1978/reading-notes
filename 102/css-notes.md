@@ -42,4 +42,4 @@ p {
 + adjacent sibling selector h1+p {}
 + general sibling selector h1~p {} 
 
-[Link back to Table of Contents](102/README.md)
+[Link back to Table of Contents](README.md)

@@ -14,4 +14,4 @@
 + cd (change directory) moves you around in the system.
 
 
-[Link back to Table of Contents](102/README.md)
+[Link back to Table of Contents](README.md)
