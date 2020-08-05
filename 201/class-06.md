@@ -63,7 +63,71 @@
      ``//querySelectorA11()//``
 
    - Step two Work with those Elements:
+     - Access / Update text nodes.
 
-   
+   ``//nodeValue//``
+
+   **nodeValue** - This property lets you access or update contents of a text node.
+
+  - Work with HTML Content.
+     ``//innerHTML//``
+
+     **innerHTML** - Lets you access child elements and text content.
+
+     ``//textContent//``
+
+     **textContent** - Lets you have access to just the text content.
+
+     - There are several methods that let you create new nodes, add nodes to a tree, and remove nodes from a tree, those are listed below :
+
+     ``//createElement()//``
+
+     ``//createTextNode()//``
+
+     ``//appendChild()//``
+
+     ``//removeChild//``
+
+- Access or update attribute values
+
+    ``//className / id//``
+
+    **className / id** - Lets you get or update the value of the class and id attributes.
+
+    ``//hasAttribute()//``
+
+    ``//getAttribute()//``
+
+    ``//setAttribute()//``
+
+    ``//removeAttribute()//``
+
+    - Above, the first checks if an attribute exists. The second gets its value. The third updates the value. Then the fourth removes an attribute.
+
+- **The terms *Elements* and *Element nodes* are used interchangeably but when people say the DOM is working with an element, it is actually working with a node the represents that element.**
+
+- Methods that find elements in the DOM tree are called *DOM queries*. 
+- When people talk about storing elements in variables, they are really storing the location of the elements within the DOM tree in a veriable. The properties and methods of that element node work on the variable.
+- DOM queries may return one element, or they may return a *NodeList*, which is a collection of nodes.
+   - Methods that return a single element node:
+    ``//getElementById('id')//``
+
+    ``//querySelector('css selector')//``
+
+   - Methods that return one or more elements (as a nodelist):
+    ``//getElementByClassName('class')//``
+
+    ``//getElementsByTagName('tagName')//``
+
+    ``//querySelectorAll('css selector')//``
+
+- *Browsers offer tools for viewing the DOM tree.
+
+
+
+
+
+[Click here to return to the main table of contents](README.md)
+
 
 
