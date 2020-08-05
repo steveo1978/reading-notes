@@ -14,3 +14,5 @@
 
 1 [*Class-05*](class-05.md)
 
+1 [*Class-06*](class-06.md)
+

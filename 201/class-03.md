@@ -55,3 +55,5 @@
    * A **For** loop is often used to loop through the items in an array.
    * A **while** loop will continue to run for as long as the condition in parentheses is true.
    * The key difference between a *while* and a *do while* loop is that the statements in the code block come **before** the condition. 
+
+   [Link back to table of Contents](README.md)

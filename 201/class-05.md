@@ -99,3 +99,6 @@ There are 3 different types of typeface terminology
   **You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.**
 
 
+  [Link back to table of Contents](README.md)
+
+

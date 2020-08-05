@@ -118,3 +118,6 @@
 **_Some functions return info to the code that called them. When they perform a calculation, they return the result._**
 
 **_Functions can return more than one value using an array._**
+
+
+[Link back to table of Contents](README.md)
