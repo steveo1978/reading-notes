@@ -24,7 +24,9 @@
 
 for (var i = 0; i < 10; i++){
     console.log(i);
-
-
-    [Link back to Table of Contents](README.md)
 }
+
+
+
+
+[Link back to Table of Contents](README.md)

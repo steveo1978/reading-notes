@@ -7,25 +7,25 @@
 - **In an object Variables become known as properties. Properties tell us about the object.**
 - **In an object Functions become know as methods. They reprsent tasks that are associated with the object.**
 
-``//var hotel = {//``            <------------------------- Properties
+``var hotel = {``            <------------------------- Properties
 
-``//name: 'Quay',//``            <------------------------- "        "
+``name: 'Quay',``            <------------------------- "        "
 
-``//rooms: 40,//``               <------------------------- "        "
+``rooms: 40,``               <------------------------- "        "
 
-``//booked: 25,//``              <------------------------- "        "
+``booked: 25,``              <------------------------- "        "
 
-``//gym: true,//``               <------------------------- "        "
+``gym: true,``               <------------------------- "        "
 
-``//roomTypes: ['twin', 'double', 'suite'],//``    <------- Properties
+``roomTypes: ['twin', 'double', 'suite'],``    <------- Properties
 
-``//checkAvailability: Function(){//``             <-------- Method
+``checkAvailability: Function(){``             <-------- Method
 
-``//return this.rooms - this.booked;//``           <-------- Method
+``return this.rooms - this.booked;``           <-------- Method
 
-  ``//}``          <---------------------------------------- Method
+  ``}``          <---------------------------------------- Method
 
-``//};//``
+``};``
 
 - Literal notation is the easiest and most popular way to create objects.\(There are several ways to create objects.\)
 - You access the properties or methods of an object using dot notation. You can also access properties using square brackets.
@@ -51,56 +51,56 @@
     - Step one Access the Elements:
 
 - Here are some common ways to select an individual element: 
-     ``//getElementById()//``
+     ``getElementById()``
 
-     ``//querySelector()//``
+     ``querySelector()``
 
 - Here are three common ways to select multiple elements:
-     ``//getElementByClassName()//``
+     ``getElementByClassName()``
 
-     ``//getElementByTagName()//``
+     ``getElementByTagName()``
 
-     ``//querySelectorA11()//``
+     ``querySelectorA11()``
 
    - Step two Work with those Elements:
      - Access / Update text nodes.
 
-   ``//nodeValue//``
+   ``nodeValue``
 
    **nodeValue** - This property lets you access or update contents of a text node.
 
   - Work with HTML Content.
-     ``//innerHTML//``
+     ``innerHTML``
 
      **innerHTML** - Lets you access child elements and text content.
 
-     ``//textContent//``
+     ``textContent``
 
      **textContent** - Lets you have access to just the text content.
 
      - There are several methods that let you create new nodes, add nodes to a tree, and remove nodes from a tree, those are listed below :
 
-     ``//createElement()//``
+     ``createElement()``
 
-     ``//createTextNode()//``
+     ``createTextNode()``
 
-     ``//appendChild()//``
+     ``appendChild()``
 
-     ``//removeChild//``
+     ``removeChild``
 
 - Access or update attribute values
 
-    ``//className / id//``
+    ``className / id``
 
     **className / id** - Lets you get or update the value of the class and id attributes.
 
-    ``//hasAttribute()//``
+    ``hasAttribute()``
 
-    ``//getAttribute()//``
+    ``getAttribute()``
 
-    ``//setAttribute()//``
+    ``setAttribute()``
 
-    ``//removeAttribute()//``
+    ``removeAttribute()``
 
     - Above, the first checks if an attribute exists. The second gets its value. The third updates the value. Then the fourth removes an attribute.
 
@@ -110,14 +110,14 @@
 - When people talk about storing elements in variables, they are really storing the location of the elements within the DOM tree in a veriable. The properties and methods of that element node work on the variable.
 - DOM queries may return one element, or they may return a *NodeList*, which is a collection of nodes.
    - Methods that return a single element node:
-    ``//getElementById('id')//``
+    ``getElementById('id')``
 
-    ``//querySelector('css selector')//``
+    ``querySelector('css selector')``
 
    - Methods that return one or more elements (as a nodelist):
-    ``//getElementByClassName('class')//``
+    ``getElementByClassName('class')``
 
-    ``//getElementsByTagName('tagName')//``
+    ``getElementsByTagName('tagName')``
 
     ``querySelectorAll('css selector')``
 
