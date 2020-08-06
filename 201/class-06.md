@@ -119,7 +119,7 @@
 
     ``//getElementsByTagName('tagName')//``
 
-    ``//querySelectorAll('css selector')//``
+    ``querySelectorAll('css selector')``
 
 - *Browsers offer tools for viewing the DOM tree.
 
