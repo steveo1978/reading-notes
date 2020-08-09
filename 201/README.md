@@ -16,3 +16,5 @@
 
 1 [*Class-06*](class-06.md)
 
+1 [*Class-07*](class-07.md)
+
