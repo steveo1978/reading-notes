@@ -33,7 +33,21 @@
   - **Absoulte Positioning** - This positions the element in relation to it's containing element. It is taken out of normal flow.
 
 - To indicate where a box should be positioned, you may also need to use a **Box Offset** property to tell the browser how far from the top or bottom and left or right it should be placed.
-  - **Fixed Positioning** - This is a form of absolute positioning that positions.  
+  - **Fixed Positioning** - This is a form of absolute positioning that positions the element in relation to the browser window, as opposed to the containing element.
+  - **Floating Elements** - Floating an element allows you to take that element out of normal flow and position it to the far left or right of a containing box.
+- When you move any element from normal flow, boxes can overlap. The *Z-index* property allows you to control which box appears on top.
+
+- **Resolution** refers to the number of dots a screen shows per inch.
+
+- Pages can be fixed width or liquid ( streachy ) layouts.
+
+- Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels.
+
+- Grids help create professional and flexible designs.
+
+- CSS frameworks provide rules for common tasks.
+
+- You can include multiple CSS files in one page.
 
 
 
